@@ -2,11 +2,12 @@
 
 Voici 3 sites pour 3 de mes projets :
 
-[chatCPT](chatCPT.great-site.net)
+[chatCPT](http://chatcpt.great-site.net/)
 
-[procrastinator](procrastinator.42web.io)
+[procrastinator](http://procrastinator.42web.io/)
 
-[generator](generator.free.nf)
+[generator](http://generator.free.nf/)
+
 <!--
 **Bastien-Project/Bastien-Project** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
