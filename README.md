@@ -6,7 +6,7 @@ Voici 3 sites pour 3 de mes projets :
 
 [procrastinator](http://procrastinator.42web.io/)
 
-[generator](http://generator.free.nf/)
+[generator](http://generator.is-great.net/)
 
 <!--
 **Bastien-Project/Bastien-Project** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
